@@ -1,6 +1,8 @@
 /**
  *    a) In big O we measure how long a task will take to complete on its worst case scenario by number of items.
  *       This will be O(5n) since we have to go through the array three times to get the result and then loop through the domain object twice to get the length and get the entries
+ *  
+ * // Thought proccess
  *
  *     take a count through and create a hash map
  *     log with interpolation
