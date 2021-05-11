@@ -43,7 +43,7 @@ const task1Eval = () => {
 
     console.log(`
     Apple: ${fruitMap['apple']},\r
-    Pear: ${fruitMap['apple']} \r
+    Pear: ${fruitMap['pear']} \r
     Lemon: ${fruitMap['lemon']},\r
     Orange: ${fruitMap['orange']},\r
     Pineapple: ${fruitMap['pineapple']},\r
